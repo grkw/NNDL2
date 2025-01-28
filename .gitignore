@@ -1,3 +1,13 @@
+nndl2/
+*.pt
+*.pkl
+*.pth
+wandb/
+runs/
+data/
+models/
+pretrained_models/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
